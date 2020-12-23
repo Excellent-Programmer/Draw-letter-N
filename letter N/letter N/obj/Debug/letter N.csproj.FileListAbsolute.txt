@@ -1,0 +1,7 @@
+D:\Draw with C#\letter N\letter N\bin\Debug\letter N.exe.config
+D:\Draw with C#\letter N\letter N\bin\Debug\letter N.exe
+D:\Draw with C#\letter N\letter N\bin\Debug\letter N.pdb
+D:\Draw with C#\letter N\letter N\obj\Debug\letter N.csprojAssemblyReference.cache
+D:\Draw with C#\letter N\letter N\obj\Debug\letter N.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter N\letter N\obj\Debug\letter N.exe
+D:\Draw with C#\letter N\letter N\obj\Debug\letter N.pdb
